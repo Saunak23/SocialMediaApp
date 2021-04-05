@@ -19,7 +19,9 @@ When you're building an app that exists in multiple APK variations, such as a fr
 **Implementation:** To implement a basic RecyclerView three sub-parts are needed to be constructed which offer the users the degree of control they require in making varying designs of their choice.
 
 **The Card Layout:** The card layout is an XML layout which will be treated as an item for the list created by the RecyclerView.
+
 **The ViewHolder:** The ViewHolder is a java class that stores the reference to the card layout views that have to be dynamically modified during the execution of the program by a list of data obtained either by online databases or added in some other way.
+
 **The Data Class:** The Data class is a custom java class that acts as a structure for holding the information for every item of the RecyclerView.
 
 
