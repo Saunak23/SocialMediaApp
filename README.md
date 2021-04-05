@@ -5,12 +5,15 @@ A Social Media App which U can use to find some lost contacts due to workloads a
 
 <h2>Firebase:-</h2> Firebase is a mobile platform that helps you quickly develop high-quality apps, grow your user base, and earn more money. Firebase is made up of complementary features that you can mix-and-match to fit your needs, with Google Analytics for Firebase at the core. You can explore and integrate Firebase services in your app directly from Android Studio using the Assistant window
 
-<h2>Lib:-</h2> A library module is useful in the following situations:
+<h2>Library:-</h2> A library module is useful in the following situations:
 
 When you're building multiple apps that use some of the same components, such as activities, services, or UI layouts.
 When you're building an app that exists in multiple APK variations, such as a free and paid version and you need the same core components in both.
 
 <h2>Repository:-</h2> A repository mediates between data sources (such as persistent models, web services, and caches) and the rest of the app. The diagram below shows how app components such as activities that use LiveData might interact with data sources by way of a repository.
+
+![image](https://user-images.githubusercontent.com/71092350/113592255-8ce16b00-9652-11eb-87cc-a57ea368e261.png)
+
 
 <h2>Coroutines:-</h2> On Android, coroutines help to manage long-running tasks that might otherwise block the main thread and cause your app to become unresponsive. Over 50% of professional developers who use coroutines have reported seeing increased productivity. This topic describes how you can use Kotlin coroutines to address these problems, enabling you to write cleaner and more concise app code.
 
